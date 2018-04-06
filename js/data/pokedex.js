@@ -13570,7 +13570,326 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 		"ab": "Power Construct",
 		"isAlternateForme": true
 	},
-	"Reapther-Mega": {
+	"Talonfey": {
+"t1": "Fairy", 
+"t2": "Flying",
+"bs": { 
+"hp": 81, 
+"at": 126, 
+"df": 71, 
+"sa": 69,
+"sd": 74, 
+"sp": 78 
+}, 
+},"Talonwave": {
+"t1": "Water", 
+"t2": "Flying",
+"bs": { 
+"hp": 126, 
+"at": 71, 
+"df": 78, 
+"sa": 81,
+"sd": 74, 
+"sp": 69 
+}, 
+},"Talonacid": {
+"t1": "Poison", 
+"t2": "Flying",
+"bs": { 
+"hp": 74, 
+"at": 69, 
+"df": 126, 
+"sa": 78,
+"sd": 81, 
+"sp": 71 
+}, 
+},"Talondrake": {
+"t1": "Dragon", 
+"t2": "Flying",
+"bs": { 
+"hp": 78, 
+"at": 81, 
+"df": 74, 
+"sa": 126,
+"sd": 69, 
+"sp": 71 
+}, 
+},"Talonvolt": {
+"t1": "Electric", 
+"t2": "Flying",
+"bs": { 
+"hp": 69, 
+"at": 74, 
+"df": 71, 
+"sa": 126,
+"sd": 78, 
+"sp": 81 
+}, 
+},"Umichu": {
+"t1": "Electric", 
+"t2": "Water",
+"bs": { 
+"hp": 80, 
+"at": 75, 
+"df": 110, 
+"sa": 90,
+"sd": 115, 
+"sp": 80 
+}, 
+},"Armochu": {
+"t1": "Electric", 
+"t2": "Steel",
+"bs": { 
+"hp": 89, 
+"at": 55, 
+"df": 101, 
+"sa": 140,
+"sd": 103, 
+"sp": 62 
+}, 
+},"Miraclechu": {
+"t1": "Electric", 
+"t2": "Psychic",
+"bs": { 
+"hp": 60, 
+"at": 90, 
+"df": 75, 
+"sa": 135,
+"sd": 75, 
+"sp": 110 
+}, 
+},"Noxiochu": {
+"t1": "Electric", 
+"t2": "Poison",
+"bs": { 
+"hp": 75, 
+"at": 112, 
+"df": 50, 
+"sa": 91,
+"sd": 86, 
+"sp": 136 
+}, 
+},"Keruchu": {
+"t1": "Electric", 
+"t2": "Fighting",
+"bs": { 
+"hp": 70, 
+"at": 110, 
+"df": 85, 
+"sa": 95,
+"sd": 60, 
+"sp": 130 
+}, 
+},"Conflachu": {
+"t1": "Electric", 
+"t2": "Fire",
+"bs": { 
+"hp": 110, 
+"at": 130, 
+"df": 65, 
+"sa": 70,
+"sd": 65, 
+"sp": 110 
+}, 
+},"Goollium": {
+"t1": "Dragon", 
+"t2": "Steel",
+"bs": { 
+"hp": 100, 
+"at": 90, 
+"df": 150, 
+"sa": 80,
+"sd": 70, 
+"sp": 110 
+}, 
+},"Goopsyche": {
+"t1": "Dragon", 
+"t2": "Psychic",
+"bs": { 
+"hp": 90, 
+"at": 110, 
+"df": 150, 
+"sa": 70,
+"sd": 100, 
+"sp": 80 
+}, 
+},"Sumogoo": {
+"t1": "Dragon", 
+"t2": "Fighting",
+"bs": { 
+"hp": 90, 
+"at": 110, 
+"df": 150, 
+"sa": 100,
+"sd": 80, 
+"sp": 70 
+}, 
+},"Goobolt": {
+"t1": "Dragon", 
+"t2": "Electric",
+"bs": { 
+"hp": 70, 
+"at": 110, 
+"df": 90, 
+"sa": 100,
+"sd": 80, 
+"sp": 150 
+}, 
+},"Dragooxie": {
+"t1": "Dragon", 
+"t2": "Fairy",
+"bs": { 
+"hp": 150, 
+"at": 70, 
+"df": 90, 
+"sa": 110,
+"sd": 100, 
+"sp": 80 
+}, 
+},"Sunpad": {
+"t1": "Grass", 
+"t2": "Water",
+"bs": { 
+"hp": 75, 
+"at": 30, 
+"df": 75, 
+"sa": 85,
+"sd": 105, 
+"sp": 55 
+}, 
+},"Snowflora": {
+"t1": "Grass", 
+"t2": "Ice",
+"bs": { 
+"hp": 75, 
+"at": 30, 
+"df": 75, 
+"sa": 85,
+"sd": 55, 
+"sp": 105 
+}, 
+},"Moonflora": {
+"t1": "Grass", 
+"t2": "Dark",
+"bs": { 
+"hp": 85, 
+"at": 55, 
+"df": 75, 
+"sa": 30,
+"sd": 75, 
+"sp": 105 
+}, 
+},"Sunshock": {
+"t1": "Grass", 
+"t2": "Electric",
+"bs": { 
+"hp": 105, 
+"at": 55, 
+"df": 75, 
+"sa": 85,
+"sd": 75, 
+"sp": 30 
+}, 
+},"Sunspook": {
+"t1": "Grass", 
+"t2": "Ghost",
+"bs": { 
+"hp": 85, 
+"at": 55, 
+"df": 75, 
+"sa": 105,
+"sd": 75, 
+"sp": 30 
+}, 
+},"Allsparce": {
+"t1": "Normal", 
+
+"bs": { 
+"hp": 110, 
+"at": 95, 
+"df": 100, 
+"sa": 75,
+"sd": 100, 
+"sp": 85 
+}, 
+},"Dunsoul": {
+"t1": "Normal", 
+"t2": "Ghost",
+"bs": { 
+"hp": 150, 
+"at": 95, 
+"df": 85, 
+"sa": 80,
+"sd": 95, 
+"sp": 60 
+}, 
+},"Landisparce": {
+"t1": "Normal", 
+"t2": "Ground",
+"bs": { 
+"hp": 105, 
+"at": 126, 
+"df": 75, 
+"sa": 69,
+"sd": 100, 
+"sp": 90 
+}, 
+},"Frosparce": {
+"t1": "Normal", 
+"t2": "Ice",
+"bs": { 
+"hp": 100, 
+"at": 130, 
+"df": 75, 
+"sa": 85,
+"sd": 65, 
+"sp": 110 
+}, 
+},"Dunsparkle": {
+"t1": "Normal", 
+"t2": "Fairy",
+"bs": { 
+"hp": 160, 
+"at": 100, 
+"df": 90, 
+"sa": 65,
+"sd": 90, 
+"sp": 60 
+}, 
+},"Dunvelop": {
+"t1": "Normal", 
+
+"bs": { 
+"hp": 120, 
+"at": 125, 
+"df": 95, 
+"sa": 85,
+"sd": 85, 
+"sp": 55 
+}, 
+},"Dunstatic": {
+"t1": "Electric", 
+"t2": "Flying",
+"bs": { 
+"hp": 130, 
+"at": 95, 
+"df": 80, 
+"sa": 80,
+"sd": 100, 
+"sp": 80 
+}, 
+},"Reapther": {
+"t1": "Bug", 
+"t2": "Ghost",
+"bs": { 
+"hp": 40, 
+"at": 120, 
+"df": 80, 
+"sa": 65,
+"sd": 75, 
+"sp": 125 
+}, 
+},"Reapther-Mega": {
 "t1": "Bug", 
 "t2": "Ghost",
 "bs": { 
@@ -13581,7 +13900,17 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sd": 90, 
 "sp": 145 
 }, 
-
+},"Scypsy": {
+"t1": "Bug", 
+"t2": "Psychic",
+"bs": { 
+"hp": 65, 
+"at": 100, 
+"df": 70, 
+"sa": 55,
+"sd": 80, 
+"sp": 130 
+}, 
 },"Scypsy-Mega": {
 "t1": "Bug", 
 "t2": "Psychic",
@@ -13593,19 +13922,28 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sd": 90, 
 "sp": 150 
 }, 
-
-},"Buzzasoar-Mega": {
+},"Buzzsoar": {
 "t1": "Bug", 
 "t2": "Flying",
 "bs": { 
 "hp": 80, 
-"at": 60, 
-"df": 80, 
-"sa": 160,
-"sd": 80, 
-"sp": 140 
+"at": 50, 
+"df": 70, 
+"sa": 130,
+"sd": 70, 
+"sp": 100 
 }, 
-
+},"Scyanide": {
+"t1": "Bug", 
+"t2": "Poison",
+"bs": { 
+"hp": 51, 
+"at": 100, 
+"df": 50, 
+"sa": 120,
+"sd": 50, 
+"sp": 109 
+}, 
 },"Scyanide-Mega": {
 "t1": "Bug", 
 "t2": "Poison",
@@ -13617,7 +13955,17 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sd": 70, 
 "sp": 129 
 }, 
-
+},"Magzor": {
+"t1": "Bug", 
+"t2": "Fire",
+"bs": { 
+"hp": 70, 
+"at": 130, 
+"df": 55, 
+"sa": 80,
+"sd": 65, 
+"sp": 100 
+}, 
 },"Magzor-Mega": {
 "t1": "Bug", 
 "t2": "Fire",
@@ -13629,7 +13977,17 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sd": 75, 
 "sp": 140 
 }, 
-
+},"Alunix": {
+"t1": "Electric", 
+"t2": "Ground",
+"bs": { 
+"hp": 85, 
+"at": 45, 
+"df": 190, 
+"sa": 75,
+"sd": 85, 
+"sp": 30 
+}, 
 },"Alunix-Mega": {
 "t1": "Electric", 
 "t2": "Ground",
@@ -13641,7 +13999,17 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sd": 115, 
 "sp": 50 
 }, 
-
+},"Coffilix": {
+"t1": "Ground", 
+"t2": "Ghost",
+"bs": { 
+"hp": 75, 
+"at": 30, 
+"df": 200, 
+"sa": 85,
+"sd": 65, 
+"sp": 55 
+}, 
 },"Coffilix-Mega": {
 "t1": "Ground", 
 "t2": "Ghost",
@@ -13653,7 +14021,17 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sd": 65, 
 "sp": 85 
 }, 
-
+},"Crystix": {
+"t1": "Ice", 
+"t2": "Dragon",
+"bs": { 
+"hp": 100, 
+"at": 110, 
+"df": 120, 
+"sa": 40,
+"sd": 120, 
+"sp": 20 
+}, 
 },"Crystix-Mega": {
 "t1": "Ice", 
 "t2": "Dragon",
@@ -13665,7 +14043,17 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sd": 150, 
 "sp": 20 
 }, 
-
+},"Gemelix": {
+"t1": "Ground", 
+"t2": "Fairy",
+"bs": { 
+"hp": 85, 
+"at": 75, 
+"df": 65, 
+"sa": 30,
+"sd": 200, 
+"sp": 55 
+}, 
 },"Gemelix-Mega": {
 "t1": "Ground", 
 "t2": "Fairy",
@@ -13677,10 +14065,20 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sd": 200, 
 "sp": 90 
 }, 
-
-},"Scarix-Mega": {
+},"Scarix": {
 "t1": "Rock", 
 "t2": "Fighting",
+"bs": { 
+"hp": 70, 
+"at": 120, 
+"df": 110, 
+"sa": 30,
+"sd": 70, 
+"sp": 110 
+}, 
+},"Scarix-Mega": {
+"t1": "Rock", 
+"t2": "FIghting",
 "bs": { 
 "hp": 70, 
 "at": 160, 
@@ -13688,6 +14086,39 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 30,
 "sd": 110, 
 "sp": 130 
+}, 
+},"Chacario": {
+"t1": "Fighting", 
+"t2": "Ground",
+"bs": { 
+"hp": 70, 
+"at": 115, 
+"df": 70, 
+"sa": 90,
+"sd": 70, 
+"sp": 110 
+}, 
+},"Cryocario": {
+"t1": "Fighting", 
+"t2": "Ice",
+"bs": { 
+"hp": 70, 
+"at": 115, 
+"df": 65, 
+"sa": 115,
+"sd": 60, 
+"sp": 100 
+}, 
+},"Kobucha": {
+"t1": "Fighting", 
+
+"bs": { 
+"hp": 70, 
+"at": 122, 
+"df": 78, 
+"sa": 70,
+"sd": 78, 
+"sp": 107 
 }, 
 }
 });
